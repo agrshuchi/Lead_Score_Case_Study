@@ -1,2 +1,4 @@
 # Lead_Score_Case_Study
-Team - Abhishek Sharma, Moni Kumari, Shuchi Agrawal
+### Team - Abhishek Sharma, Moni Kumari, Shuchi Agrawal
+- Objective - This Case study aims to create a model for an education company named X Education who sells online courses to industry professionals. Company needs a model where a lead score can be assigned to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance!
+- Summary - While creating model There were a lots of leads generated in the initial stage (top) but only a few of them whose current status was tagged as Closed by Horizzon, Lost to EINS and Will revert after reading the email, TotalVisits' , 'Total Time Spent on Website', and who came from references were the most who converted into paying customers. Business was adviced to monitor each lead carefully so that they can provide information or courses that suits best according to the interest of lead.s
